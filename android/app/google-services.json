@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325394436222",
+    "project_id": "flutter-masterclass-4750f",
+    "storage_bucket": "flutter-masterclass-4750f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325394436222:android:f568576fa08f3d2b36482f",
+        "android_client_info": {
+          "package_name": "com.rpg.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxS9IVEAvvHXyewL2fKuT7uQcKjw1yZGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
