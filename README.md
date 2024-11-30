@@ -8,9 +8,17 @@ A new Flutter project.
 
 ## Screenshots
 
-//![Home](RPG/home.jpg)
+<img src="RPG/home.jpg" alt="Home" width="300">
+<center>Home</center>
 
-<img src="RPG/home.jpg" alt="Home" width="200">
+<img src="RPG/slide_to_delete.jpg" alt="slide to delete" width="300">
+<center>Slide to Delete</center>
+
+<img src="RPG/add_new.jpg" alt="Add New" width="300">
+<center>Adding New Character</center>
+
+<img src="RPG/about.jpg" alt="About" width="300">
+<center>About</center>
 
 ## Getting Started
 
