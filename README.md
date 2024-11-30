@@ -6,6 +6,10 @@ A simple character display app with CRUD operations (powered by FireBase 🔥).
 
 A new Flutter project.
 
+## Screenshots
+
+![Home](RPG/home.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
