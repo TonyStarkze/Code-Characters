@@ -8,7 +8,9 @@ A new Flutter project.
 
 ## Screenshots
 
-![Home](RPG/home.jpg)
+//![Home](RPG/home.jpg)
+
+<img src="RPG/home.jpg" alt="Home" width="200">
 
 ## Getting Started
 
